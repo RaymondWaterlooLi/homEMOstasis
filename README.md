@@ -1,5 +1,5 @@
 # homEMOstasis
-This is a hackthon project our team design for 2019 HTN (Hack the north)
+This is a hackthon project our team designed for 2019 HTN (Hack the north)
 
 It is a emotion changing software. If u are happy, it will give u some bad quotes. If u are upset, it will give u some great jokes to cheer u up.
 
